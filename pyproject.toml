@@ -7,7 +7,7 @@ name = "klinelens"
 version = "0.1.0"
 description = "Python client for the K-Line Lens API: Bitcoin order flow, liquidations, large trades, the order book and derivatives."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "K-Line Lens", email = "support@klinelens.com" }]
 keywords = ["bitcoin", "order flow", "liquidations", "cvd", "crypto", "market data", "api"]
